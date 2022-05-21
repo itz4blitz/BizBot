@@ -1,0 +1,17 @@
+C:\Users\Blitz\source\repos\BizBot\Bot_Console\obj\Debug\net6.0\Bot_Console.csproj.AssemblyReference.cache
+C:\Users\Blitz\source\repos\BizBot\Bot_Console\obj\Debug\net6.0\Bot_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blitz\source\repos\BizBot\Bot_Console\obj\Debug\net6.0\Bot_Console.AssemblyInfoInputs.cache
+C:\Users\Blitz\source\repos\BizBot\Bot_Console\obj\Debug\net6.0\Bot_Console.AssemblyInfo.cs
+C:\Users\Blitz\source\repos\BizBot\Bot_Console\obj\Debug\net6.0\Bot_Console.csproj.CoreCompileInputs.cache
+C:\Users\Blitz\source\repos\BizBot\Bot_Console\bin\Debug\net6.0\Bot_Console.exe
+C:\Users\Blitz\source\repos\BizBot\Bot_Console\bin\Debug\net6.0\Bot_Console.deps.json
+C:\Users\Blitz\source\repos\BizBot\Bot_Console\bin\Debug\net6.0\Bot_Console.runtimeconfig.json
+C:\Users\Blitz\source\repos\BizBot\Bot_Console\bin\Debug\net6.0\Bot_Console.dll
+C:\Users\Blitz\source\repos\BizBot\Bot_Console\bin\Debug\net6.0\Bot_Console.pdb
+C:\Users\Blitz\source\repos\BizBot\Bot_Console\obj\Debug\net6.0\Bot_Console.dll
+C:\Users\Blitz\source\repos\BizBot\Bot_Console\obj\Debug\net6.0\refint\Bot_Console.dll
+C:\Users\Blitz\source\repos\BizBot\Bot_Console\obj\Debug\net6.0\Bot_Console.pdb
+C:\Users\Blitz\source\repos\BizBot\Bot_Console\obj\Debug\net6.0\Bot_Console.genruntimeconfig.cache
+C:\Users\Blitz\source\repos\BizBot\Bot_Console\obj\Debug\net6.0\ref\Bot_Console.dll
+C:\Users\Blitz\source\repos\BizBot\Bot_Console\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Blitz\source\repos\BizBot\Bot_Console\obj\Debug\net6.0\Bot_Console.csproj.CopyComplete
